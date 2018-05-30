@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shorting List</string>
+    <string name="Ascending_Button">Ascending</string>
+    <string name="Descending_Button">Descending</string>
+</resources>
